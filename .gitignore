@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Local tool state ###
+.claude/settings.local.json
+.neon
